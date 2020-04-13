@@ -1,0 +1,21 @@
+#arrow-right {
+  transform: scaleX(-1);
+}
+
+#image {
+  display: inline-block;
+  height: 400px;
+  width: auto;
+}
+
+#image img {
+  height: 400px;
+  width: auto;
+}
+
+.arrow {
+  height: 400px;
+  display: inline-block;
+  /* vertical-align: middle; */
+  background-color: grey;
+}
